@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://word.tips/",
+    "testFiles": "**/*.feature",
+    "viewportWidth": 1376,
+    "viewportHeight": 768
+}
