@@ -2,5 +2,9 @@
     "baseUrl": "https://word.tips/",
     "testFiles": "**/*.feature",
     "viewportWidth": 1376,
-    "viewportHeight": 768
+    "viewportHeight": 768,
+    "env": {
+        "allure": "true",
+        "allureResultsPath": "allure-results"
+    }
 }
